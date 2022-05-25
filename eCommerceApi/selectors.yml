@@ -1,0 +1,4 @@
+name:
+    css: 'span.a-profile-name'
+    xpath: null
+    type: Text
